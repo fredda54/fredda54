@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+This is my personal non-work related GitHub account where I try to improve my coding skills and my problem solving abilities.
+
+- 🔭 I’m currently working on setting up my GitHub account.
+
 <!--
 **fredda54/fredda54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
